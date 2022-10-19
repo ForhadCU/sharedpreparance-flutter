@@ -1,0 +1,4 @@
+#Sun Jul 04 16:39:22 BDT 2021
+base.0=/home/forhad/AndroidStudioProjects/Flutter_Tutorial/flutter_app_sharedpreparance/flutter_app_sharedpreparance/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
